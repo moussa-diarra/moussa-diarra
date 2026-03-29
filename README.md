@@ -8,7 +8,7 @@
   </a>
   &nbsp;
   <a href="https://www.root-me.org/Samurai-1053627?lang=fr#1d4450e049de8c43a6f178c2da472f03" target="_blank">
-  <img src="https://img.shields.io/badge/RootMe-Active-Top%2010%25-9b59b6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/RootMe-Top%2010%25-9b59b6?style=flat-square&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Fortinet-FCA-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
   &nbsp;
