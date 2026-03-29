@@ -7,7 +7,8 @@
     <img src="https://img.shields.io/badge/TryHackMe-Top%204%25-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/RootMe-Active-9b59b6?style=flat-square&logoColor=white" />
+  <a href="https://www.root-me.org/Samurai-1053627?lang=fr#1d4450e049de8c43a6f178c2da472f03" target="_blank">
+  <img src="https://img.shields.io/badge/RootMe-Active-Top%2010%25-9b59b6?style=flat-square&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Fortinet-FCA-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
   &nbsp;
@@ -30,7 +31,7 @@
 
 ## About me
 
-Cybersecurity student focused on defensive security, Active Directory hardening, threat detection, log analysis, and network segmentation. I practice offensive techniques on TryHackMe **(top 4%)** and Root-Me to understand the attacker mindset and build stronger defenses.
+Cybersecurity student focused on defensive security, Active Directory hardening, threat detection, log analysis, and network segmentation. I practice offensive techniques on TryHackMe **(top 4%)** and Root-Me **(top 10%)** to understand the attacker mindset and build stronger defenses.
 
 - 🎯 &nbsp;Targeting **Security Engineer / SOC Analyst / Blue Team** roles
 - 🌍 &nbsp;Based in France &nbsp;·&nbsp; Open to international opportunities
@@ -77,24 +78,21 @@ Configured a two-VLAN architecture, inter-VLAN routing rules, and tested bypass 
 ---
 
 ### [Password Generator]  
-
-Secure password generator following NIST SP 800-63B guidelines
+> Secure password generator following NIST SP 800-63B guidelines
 
 `C` `Security` `CLI`
 
 ---
 
 ### [TCP Port Scanner]  
-
-Lightweight TCP port scanner which detects open ports and banners
+> Lightweight TCP port scanner which detects open ports and banners
 
 `C` `Networking` `Sockets` 
 
 ---
 
 ### [File Hash Checker]  
-
-CLI tool built in Python which verifies file integrity (MD5/SHA1).
+> CLI tool built in Python which verifies file integrity (MD5/SHA1).
 
 `Python` `Cryptography` `CLI`
 
