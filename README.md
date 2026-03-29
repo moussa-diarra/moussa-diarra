@@ -94,7 +94,7 @@ Configured a two-VLAN architecture, inter-VLAN routing rules, and tested bypass 
 ### [File Hash Checker]  
 > CLI tool built in Python which verifies file integrity (MD5/SHA1).
 
-`Python` `Cryptography` `CLI`
+`C` `Cryptography` `CLI`
 
 
 
