@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/Fortinet-FCA-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Fortinet-FCF-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TOEIC-865%2F990-0052CC?style=flat-square&logoColor=white" />
 </p>
 
 <p align="center">
